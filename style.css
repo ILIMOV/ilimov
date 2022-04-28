@@ -1,0 +1,53 @@
+a{
+ color:red;
+ font-size:25px;
+}
+.bg-yellow{
+	background:pink;
+}
+.bg-green{
+	background:yellow;
+}
+.bg-red{
+	background:lightblue;
+}
+.a6{
+	padding:20px;
+	background-color: ;
+	margin-bottom:30px;
+	border-radius:30px;
+}
+#a1{
+	color:lime;
+}
+.a4{color:darkred;
+
+}
+.a2{
+	color:red;
+	background-color:gray;
+	border:2px solid red;
+}
+body{
+	background:lightgray;
+	font-family:inherit;
+}
+.a3{border-radius:100px;
+	box-shadow:20px 20px 60px;
+}
+.a5{
+	border-radius:100px;
+	box-shadow:20px 20px 60px;
+}
+/* Box Model */
+.a4{
+	background-color:darkgoldenrod;
+	padding:10px;
+	border:5px solid darkred;
+	border-radius:30px;
+}
+.a7{
+	font-size:18px;
+}
+
+
